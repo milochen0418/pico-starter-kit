@@ -1,4 +1,4 @@
-![alt text](https://s3-ap-northeast-1.amazonaws.com/raspberrypi-tw/wp-content/uploads/2021/03/22150810/rpi-pi-pico-basic-kit_1200x480.jpg)
+[![rpi-pi-pico-basic-kit](http://s3-ap-northeast-1.amazonaws.com/raspberrypi-tw/wp-content/uploads/2021/03/22150810/rpi-pi-pico-basic-kit_800x320.jpg)](https://www.raspberrypi.com.tw/39346/raspberry-pi-pico-starter-kit)
 
 # Get started with MicroPython on Raspberry Pi Pico Examples
 
